@@ -266,7 +266,7 @@ footer .social i {
 }
 @media (max-width: 767.98px) {
   .landing {
-    height: calc(40vh - 60px);
+    height: calc(40vh - 130px);
     background-size: contain;
   }
   .landing h1 {
@@ -344,6 +344,7 @@ footer .social i {
   }
   .gallery .row div .mobile {
     display: block;
+    width: 100%;
   }
 }
 /* start animation  */
@@ -363,4 +364,4 @@ footer .social i {
     border-right-color: transparent;
   }
 } */
-/* end animation  *//*# sourceMappingURL=main.css.map */
+/* end animation  */ /*# sourceMappingURL=main.css.map */
